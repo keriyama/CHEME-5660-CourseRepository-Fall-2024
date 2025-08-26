@@ -1,6 +1,9 @@
 # Introduction
 This course is for engineers and scientists interested in quantitative finance and consulting. It covers financial systems, markets, and the fundamental assets and tools in quantitative finance. Additionally, it includes modeling, analysis, and simulation of fixed-income securities, equity instruments, and derivative products. The course also explores portfolio optimization, hedging strategies, and the statistical properties of financial data. It concludes with advanced topics such as the application of artificial intelligence to decision-making, providing students with tools for pursuing entrepreneurial and quantitative finance employment opportunities.
 
+
+HELLO DOES THIS WORK
+
 For more information on the course content, policies, procedures, and schedule, see the [2024-2025 Courses of Study](https://classes.cornell.edu/browse/roster/FA24/class/CHEME/5660).
 
 ## Requirements
